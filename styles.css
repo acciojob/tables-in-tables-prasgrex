@@ -1,2 +1,16 @@
+th{
+	text-align:center;
+}
+td{
+	text-align:center;
+}
+table{
+	text-align:center;
+	width:250px;
+	height:200px;
+}
 
-/* Your CSS Code here. */
+#to{
+	background-color:black;
+	color:white;
+}
