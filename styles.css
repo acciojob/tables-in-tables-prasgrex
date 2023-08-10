@@ -9,8 +9,7 @@ table{
 	width:250px;
 	height:200px;
 }
-
 #to{
-	background-color:black;
+	background-color:rgb(0,0,0);
 	color:white;
 }
