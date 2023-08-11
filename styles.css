@@ -1,15 +1,6 @@
-th{
-	text-align:center;
-}
-td{
-	text-align:center;
-}
 table{
-	text-align:center;
+  	text-align:center; 
 	width:250px;
 	height:200px;
 }
-#to{
-	background-color:#000000;
-	color:white;
-}
+
